@@ -1,0 +1,6 @@
+Cosas a descargar e instalar:
+
+-Node: https://nodejs.org/es
+-Visual Studio Code: https://code.visualstudio.com/
+-Python: https://www.python.org/
+-Anaconda: https://www.anaconda.com/download/success

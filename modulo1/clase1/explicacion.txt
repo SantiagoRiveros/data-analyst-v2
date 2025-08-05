@@ -1,0 +1,23 @@
+Conceptos - Ciclo de Vida - Aplicaciones
+
+1- ¿Que es el analisis de datos?
+Es el proceso de recolectar, limpiar(filtrar), analizar e interpretar datos para obtener informacion util y tomar decisiones informadas.
+
+2- Ciclo de vida del analisis de datos
+Este ciclo describe las etapas comunes en un proyecto de analisis de datos:
+
+    -Definicion del problema: ¿Que queremos saber? (Ejemplo: ¿Que factores afectan a las ventas de un producto?)
+    -Recoleccion de datos: Obtener los datos necesarios (archivos CSV, bases de datos, APIs, etc.)
+    -Limpieza de datos: Identificar y corregir datos faltantes, duplicados y erroneos.
+    -Analisis exploratorio de datos (EDA): Identificar patrones, relaciones y anomalias.
+    -Modelado y Analisis: Aplicar herramientas estadisticas o algoritmos para entender mejor los datos.
+    -Visualizacion y Presentacion: Comunicar los hallazgos usando graficos y reportes.
+
+3- Aplicaciones del analisis de datos:
+
+    -Negocios: Identificar comportamientos de clientes, optimizar procesos o predecir futuros ingresos.
+    -Salud: Analizar datos medicos para mejorar diagnosticos.
+    -Ciencia: Procesar grandes volumenes de informacion para hacer descubrimientos.
+    -Deportes: Evaluar el rendimiento de los jugadores y planificar estrategias.
+
+
