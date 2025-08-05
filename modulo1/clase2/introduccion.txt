@@ -1,0 +1,21 @@
+Introduccion a python:
+
+Objetivo:
+Aprendan sobre la sintaxis basica de python, que sepan las principales estructuras de datos:
+Listas, tuplas y diccionarios.
+
+¿Que es una estructura de datos?
+Es una forma de organizar, almacenar y gestionar datos en un sistema informatico
+
+¿Para que se usan?
+Es para ser utilizados y consultados de manera eficiente.
+
+
+¿A que me refiero que una estructura, tenga sentido?
+
+Por un lado guardamos: Tomates, peras, bananas, melones
+
+Por otro lado guardamos: Carne, Agua, Cerveza, Cemento, Sal, Varillas del 8 <- Carece de coherencia
+
+¿Que hace a una estructura solida y consistente? Que se guarden unos datos, estandarizados y ordenados
+
