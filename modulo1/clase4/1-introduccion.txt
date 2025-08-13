@@ -1,0 +1,71 @@
+Numpy:
+
+-Que es numpy, y porque usarlo
+-Creacion de Arrays
+-Indexacion y slicing
+-Operaciones matematicas basicas
+-Funciones utiles de NumPy
+-Ejercicios Practicos
+
+Pandas:
+-Que es pandas y porque usarlo
+-Creacion de Series y DataFrame
+-Acceder a datos de un Dataframe
+-Manipulacion de datos
+-Ejercicios
+
+
+Tipos de estructuras de datos:
+
+-Indexadas
+-Pares clave-valor (Es un par de clave y valor) -> 
+
+diccionario = {"saludo": "Hola", "nombre": "Fabian"}
+
+
+- Que es una libreria
+
+En Python, una libreria (tambien a veces llamada modulo o biblioteca) es un conjunto de funciones
+clases y variables predefinidas que se pueden usar en un programa para realizar tareas especificas.
+
+- Numpy:
+Es una libreria de Python, especializada en el manejo eficiente de arreglos (arrays) y operaciones matematicas de alto rendimiento.
+
+
+¿Que hace Numpy?
+-Proporciona una nueva estructura de datos llamada nd-array (n-dimensional array)
+
+[1, 2, 3, 4, 5]
+
+[1, 2, 3, 4, [1, 2, 3, 4, 5]]
+
+[1, 2, 3, 4, [1]]
+              2,
+              3, 4, 5, 6, 7, 8
+              4,          8
+              5,          9
+
+El array, es como una lista de Python, pero:
+
+1- Mas rapida
+2- Mas compacta en memoria
+3- Soporta operaciones vectorizadas (No necesitas loops, para hacer calculos)
+
+Ademas Numpy:
+-Permite realizar operaciones matematicas y estadisticas complejas de forma sencilla y eficiente
+-Tiene funciones de algebra lineal, transformadas de Fourier, generacion de numeros aleatorios y mucho mas.
+
+Resumiendo:
+
+1 Velocidad- Numpy esta implementado en C, y optimizado para operaciones numericas, lo que lo hace mucho mas rapido que python nativo
+2 Menor consumo de memoria - Sus arreglos almacenan  de forma continua y compacta
+3 Operaciones vectorizadas - Puedes aplicar operaciones a todo un arreglo sin necesidad de un bucle.
+4 Funcionalidad extra- Incluye funciones para matrices, algebra lineal, transformaciones y estadisticas
+5 Compatibilidad - Muchas librerias cientificas y de machine learning lo usan internamente
+
+
+¿COMO INSTALAMOS NUMPY Y PANDAS?
+
+pip install numpy pandas
+
+la palabra clave 'pip' seguida de 'install' seguida de las librerias que quieras instalar
