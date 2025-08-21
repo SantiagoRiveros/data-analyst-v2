@@ -1,0 +1,7 @@
+Antes de realizar cualquier analisis de datos, es fundamental que esten:
+
+-Completos (Sin valores faltantes)
+-Unicos (Sin duplicados innecesarios)
+-Bien formateados (textos normalizados, columnas claras)
+
+Muchos errores en proyectos y confusiones vienen de datos mal limpiados.

@@ -1,0 +1,6 @@
+
+1. Detectar y manejar valores nulos
+2. Eliminar duplicados
+3. Realizar transformaciones basicas para limpiar textos
+4. Renombrar columnas para mejorar la legibilidad
+5. Entender porque la limpieza de datos es fundamental antes del analisis
