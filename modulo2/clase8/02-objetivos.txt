@@ -1,0 +1,7 @@
+Objetivo: Introducir la necesidad de combinar datos provenientes de distintas fuentes (por Ejemplo
+informacion de empleados, ventas, etc) y explicar cuan util es fusionarlos
+
+Explicacion:
+    -Los dataframes en Pandas se usan para almacenar datos tabulares
+    -En la practica, los datos pueden estar divididos en multiples tablas.
+    -Usar tecnicas de merge y concatenacion facilita el analisis al unir distintos conjuntos de datos.

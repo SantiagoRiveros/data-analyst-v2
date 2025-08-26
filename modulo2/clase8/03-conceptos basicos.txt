@@ -1,0 +1,31 @@
+-Merge:
+    Es la accion de combinar dos dataframes usando una o mas columnas en comun (llamadas claves)
+
+-Join:
+    Termino similar a merge, que en SQL se conoce como union: Pandas implemente merges con diferentes tipos de Joins
+
+
+Tipos de Joins:
+
+-Inner Join:
+    Devuelve SOLO las filas que tienen coincidencias en ambas tablas.
+
+-Left Join:
+    Devuelve todas las filas del dataframe de la izquierda y las filas coincidentes del derecho
+
+-Right Join:
+    Devuelve todas las filas del dataframe de la derecha y las filas coincidentes del izquierdo.
+
+-Outer Join:
+    Devuelve todas las filas de ambos dataframes, completando con NaN cuando no hay coincidencia.
+
+
+----------------------------------------------------
+Sintaxis basica de merge:
+    pd.merge(df1, df2, on='clave', how='tipo_join')
+
+-df1 y df2: dataframes a combinar
+
+-on: La columna(o lista de columnas) en comun
+
+-how: El tipo de Join que queremos implementar('inner', 'left', 'right', 'outer')
