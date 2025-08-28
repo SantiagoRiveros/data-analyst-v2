@@ -1,0 +1,9 @@
+Objetivo:
+    Entender porque usar numpy y porque es mejor para calculos matematicos en vez de las listas de python.
+
+Explicacion
+    -Numpy es una libreria especializada en calculos numericos, que provee el objeto ndarray(array multidimensional)
+    -Es mucho mas rapido y eficiente que usar listas, sobre todo para operaciones matematicas y grandes cantidades de datos.
+    -Sus operaciones son vectorizadas, lo que significa que se aplican a todos los elementos del array
+    sin necesidad de bucles explicitos.
+

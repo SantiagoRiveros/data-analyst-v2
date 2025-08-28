@@ -1,0 +1,7 @@
+CON NUMPY :D 
+
+Tiempo de calculo vectorizado: 0.18700385093688965 segundos
+
+SIN NUMPY :'(
+
+Tiempo de calculo con bucle: 2.4940433502197266 segundos
