@@ -1,0 +1,13 @@
+Crea dos DataFrames:
+
+Alumnos: con columnas ID, Nombre, Edad.
+
+Notas: con columnas ID, Materia, Nota.
+
+Realiza un inner merge sobre la columna ID para obtener un DataFrame consolidado que incluya Nombre, Edad, Materia y Nota.
+
+Crea dos DataFrames adicionales llamados Alumnos_Nuevos1 y Alumnos_Nuevos2, con la misma estructura que Alumnos.
+
+Usa concat para unir todos los DataFrames de alumnos (Alumnos + Alumnos_Nuevos1 + Alumnos_Nuevos2) en un único DataFrame Alumnos_Total, reasignando el índice.
+
+Exporta los dos DataFrames finales (Consolidado y Alumnos_Total) a CSV.
