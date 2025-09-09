@@ -1,0 +1,23 @@
+-PassengerId: ID unico de cada pasajero.
+
+-Survived: Indica si la persona sobrevivio (1) o fallecio (0)
+
+-Pclass: Clase de pasajero 1= primera clase, 2= segunda clase, 3= tercera clase
+
+-Name: Nombre del pasajero
+
+-Sex: Sexo del pasajero (male-female)
+
+-Age: Edad del pasajero
+
+-Sibsp: Numero de hermanos o esposo del pasajero, parte del grupo familiar
+
+-Parch: Numero de padres o hijos que viajan con el pasajero
+
+-Ticket: Numero del boleto, puede llegar a haber duplicados
+
+-Fare: Precio que se pago por el pasaje
+
+-Cabin: Numero de cabina
+
+-Embarked: Puerto de embarque, C = Cherbourg, Q = Queenstown, S = Southampton
