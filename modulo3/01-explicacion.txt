@@ -1,0 +1,19 @@
+¿Que es una base de datos?
+
+Una base de datos, es un lugar donde vamos a almacenar informacion de manera "organizada"
+Ejemplos de bases de datos (O DB como la vamos a llamar): Agenda Telefonica, Archivo del registro civil
+registros de estudiantes de la UADE, padrones electorales, registros medicos, inventario de un juego
+
+Definicion de diccionario:
+UNa base de datos, es una coleccion organizada de datos almacenados, que permite gestionar, buscar y
+analizar grandes cantidades de informacion de forma eficiente y segura.
+
+¿Que tipos de bases de datos hay?
+Esperen, para esto, vamos a hablar ed que conforma una base de datos.
+
+Se conforman de:
+    -Tablas
+    -Las tablas poseen, filas y columnas
+
+¿Que tipos de bases de datos hay?
+Relacionales, y no relacionales. Para entender esto, vamos a dibujar.
