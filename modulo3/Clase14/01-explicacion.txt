@@ -1,0 +1,27 @@
+¿Porque usar SQL + Python?
+
+-Automatizacion
+Ej: Cada 1 mes me hace las graficas de ventas
+
+-Analizar grandes volumenes de datos
+Ej: Analizar volumenes de millonoes de datos, con numpy
+
+-integrar base de datos con visualizaciones
+Ej: Pasar de SQL a powerBi
+
+-Proceso ETL: Extract – Transform – Load.
+
+
+-----------------------------------------------------------
+
+Que es SQLAlchemy?
+
+Es una biblioteca de Python para conectarse a bases de datos SQL
+
+Ofrece:
+-Conexion simple (create_engine)
+-ORM (No lo vemos por ahora) (Object  Relational-Mapping)
+-Compatible con Pandas
+
+Que necesito correr para qu efuncione?
+pip install sqlalchemy pandas mysql-connector-python
