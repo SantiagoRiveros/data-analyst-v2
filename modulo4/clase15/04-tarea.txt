@@ -1,0 +1,7 @@
+1-¿Qué clase tenía más mujeres?
+
+2- ¿Cuál es la distribución de tarifas para los pasajeros de 3ra clase?
+
+3- ¿Cuál es la edad promedio de los pasajeros que embarcaron en cada puerto?
+
+4-Mostrá la cantidad de personas que sobrevivieron y no sobrevivieron por sexo.
