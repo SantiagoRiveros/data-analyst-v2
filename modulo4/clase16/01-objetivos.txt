@@ -1,0 +1,36 @@
+Objetivos
+
+1- COmprender como utilizar seaborn para visualizaciones graficas avanzadas
+2- Practicar con difentes set de datos reales
+3- Aprender a interpretar visualizaciones
+
+¿Que es Seaborn?
+
+Es una libreria de visualizacion de datos basada en matplotlib
+
+-Permite generar graficos atractivos
+-Integracion directa con pandas y dataframes
+-Funciones para resumir distribuciones, relaciones y categorias
+
+# pip install seaborn
+
+
+Tipos de grafico:
+
+Grafico de dispersion -> sns.scatterplot() -> Ve relaciones entre 2 variables
+
+Grafico de lineas -> sns.lineplot() -> Series temporales o continuas
+
+Grafico de barras -> sns.barplot() -> Comparar medias o totales por grupos
+
+Grafico de cajas -> sns.boxplot() -> Ver distribucion y outliers
+
+Grafico de violin -> sns.violinplot() -> Distribucion con densidad
+
+Mapa de calor -> sns.heatmap() -> Correlaciones o matrices
+
+Histograma -> sns.histplot() -> Distribucion de una variable
+
+Pairplot -> sns.pairplot() -> Comparar varias relaciones a la vez
+
+countplot -> sns.countplot() -> Contar la cantidad de cada categoria
