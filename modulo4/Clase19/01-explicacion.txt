@@ -1,0 +1,13 @@
+Tipos de graficos y cuando usarlos
+
+Columna/Barra -> Comparar valores entre categorias
+Linea -> Una evolucion/desarrollo (Positivo o negativo) A traves del tiempo
+Area -> Igual que la linea, pero con enfasis en el volumen.
+Torta -> Propociones de algo
+Dispersion/Scatter -> Relacion entre dos variables, puede mostrar tendencias y outliers
+Heatmap/Mapa de calor -> Demuestra correlaciones entre valores, puede ser positiva o negativa
+
+
+PClass
+1 - 2 - 3
+<-------
