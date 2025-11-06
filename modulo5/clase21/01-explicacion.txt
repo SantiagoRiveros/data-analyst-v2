@@ -1,0 +1,9 @@
+Objetivo: Introducir y comprender el concepto de distribucion de datos y relacion entre variables.
+
+Visualizaciones comunes:
+-Heatmap
+-Histogramas
+-Scatter plot
+-Boxplot
+
+Correlacion: Relacion entre dos variables. Ej, mas edad menos probabilidad de sobrevivir
