@@ -1,0 +1,37 @@
+Consigna
+
+Objetivo: Analizar el impacto del trabajo remoto y la satisfacción laboral en la productividad.
+
+Limpieza de datos:
+
+Identificar y reemplazar valores faltantes en Satisfaction o PerformanceScore.
+
+Estandarizar variables categóricas (por ejemplo, “Yes/No”).
+
+Crear una nueva columna ProductivityIndex = (PerformanceScore + Satisfaction*10) / HoursPerWeek.
+
+Análisis exploratorio con Python:
+
+Calcular promedios de productividad por departamento.
+
+Comparar rendimiento entre trabajadores remotos y presenciales.
+
+Ver relación entre ausencias y rendimiento.
+
+Visualización:
+
+sns.violinplot() comparando productividad por tipo de trabajo.
+
+sns.barplot() de productividad promedio por departamento.
+
+sns.scatterplot() entre satisfacción y performance.
+
+Power BI:
+
+Dashboard con KPI: Productividad general, % de trabajo remoto, correlación satisfacción-productividad.
+
+Conclusiones:
+
+¿El trabajo remoto mejora o reduce el rendimiento?
+
+¿Qué departamentos presentan mayores oportunidades de mejora?
